@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div {
+    width: 400px;
+    height: 400px;
+    color: white;
+    font-size: 32px;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+    cursor: pointer;
+}
