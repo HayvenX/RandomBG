@@ -1,4 +1,3 @@
-
 let div = document.getElementById("div")
 
 function RandomColor(max)
